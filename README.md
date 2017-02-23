@@ -6,6 +6,9 @@
 - [OkHttp](http://square.github.io/okhttp/)  
 An HTTP & HTTP/2 client for Android and Java applications
 
+- [Retrofit](https://square.github.io/retrofit/)  
+A type-safe HTTP client for Android and Java
+
 
 画像系
 - [Picasso](http://square.github.io/picasso/)  
