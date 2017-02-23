@@ -1,5 +1,7 @@
 # AndroidTips
 
+## Architecture
+
 ## OSS Library
 
 HTTP Client
@@ -28,4 +30,5 @@ Log
 - [Timber](https://github.com/JakeWharton/timber)  
 A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
-test by ryo
+## Security
+
