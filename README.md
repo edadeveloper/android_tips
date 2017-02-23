@@ -1,5 +1,7 @@
 # AndroidTips
 
+## Architecture
+
 ## OSS Library
 
 HTTP Client
@@ -27,3 +29,6 @@ A fast dependency injector for Android and Java.
 Log
 - [Timber](https://github.com/JakeWharton/timber)  
 A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+## Security
+
