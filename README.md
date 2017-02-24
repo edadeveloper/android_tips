@@ -2,6 +2,10 @@
 
 ## Architecture
 
+
+## Design
+
+
 ## OSS Library
 
 HTTP Client
@@ -31,4 +35,5 @@ Log
 A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
 ## Security
+
 
